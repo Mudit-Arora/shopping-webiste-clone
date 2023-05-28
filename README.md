@@ -1,1 +1,1 @@
-# shopping-webiste-clone
+# shopping-website-clone
